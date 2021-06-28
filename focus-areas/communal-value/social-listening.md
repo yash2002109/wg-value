@@ -95,7 +95,7 @@ Once you have this, create a data set with the following data points: <sup>8</su
 | Weighted Score | Once you’ve decided what your “weight” will be, you can assign a system of -3 to +3 to provide a weighted view of human-tagged metrics (AI will not assign a weight for several reasons). This enables the “most impactful comment” filter.|
 -->
 
-
+<!--
 Create a second sheet for the Unified Codex of Terms which will define terms. It should look like this: <sup>8</sup>
 | Category Term | Definition | When to use | When not to use |
 |---|---|---|---|
@@ -114,6 +114,7 @@ The codex is filled in by stakeholders on a regular basis by specific communitie
 
 > “A concept applies to B population ONLY SO FAR AS C limitation.”
 
+-->
 
 ### Data Collection Strategies
 
